@@ -1,0 +1,2 @@
+https://github.com/ilyachalov/lafore-book-examples Примеры и решения упражнений из книги Роберта Лафоре «ООП в C++».
+https://github.com/grey-software/Material-Math Игра калькулятор.
