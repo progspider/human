@@ -2,3 +2,6 @@ https://github.com/ilyachalov/lafore-book-examples Примеры и решен�
 https://github.com/grey-software/Material-Math Игра калькулятор.
 
 https://github.com/tuhdo/os01 Книга «Операционная система с 0 до 1»
+
+https://github.com/Pianzin/binance-trader
+https://github.com/Pianzin/binance-java-api
