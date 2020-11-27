@@ -37,3 +37,7 @@ https://habr.com/ru/post/247473/ JSON, который можно коммент�
 https://tproger.ru/books/create-os/ Как создать свою операционную систему с нуля
 
 https://habr.com/ru/company/skillbox/blog/443412/ Многословный Java, против лаконичного Python
+
+Фриланс платформа:
+1. https://kwork.ru/
+2. https://work-zilla.com/
