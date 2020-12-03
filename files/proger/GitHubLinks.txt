@@ -5,3 +5,8 @@ https://github.com/tuhdo/os01 Книга «Операционная систем
 
 https://github.com/Pianzin/binance-trader
 https://github.com/Pianzin/binance-java-api
+
+https://github.com/LabinatorSolutions/stockfish-chess-web-gui
+https://github.com/antiproton/Web-GUI-for-stockfish-chess
+http://chessboardjs.com/
+https://stockfishchess.org/
