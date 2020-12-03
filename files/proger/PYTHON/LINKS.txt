@@ -11,3 +11,5 @@ http://profitraders.com/Python/Python.html   Язык Python для трейде
 https://www.mql5.com/ru/docs/integration/python_metatrader5
 
 https://pypi.org/ - каталог программного обеспечения, написанного на языке программирования Python.
+
+https://habr.com/ru/post/466441/ Глючный код на Python: 10 самых распространенных ошибок, которые допускают разработчики
