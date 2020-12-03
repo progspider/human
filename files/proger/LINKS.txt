@@ -41,3 +41,5 @@ https://habr.com/ru/company/skillbox/blog/443412/ Многословный Java,
 Фриланс платформа:
 1. https://kwork.ru/
 2. https://work-zilla.com/
+
+https://xakep.ru/2015/01/08/google-apps-script/ Google Apps Script
