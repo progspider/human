@@ -10,3 +10,5 @@ https://github.com/LabinatorSolutions/stockfish-chess-web-gui
 https://github.com/antiproton/Web-GUI-for-stockfish-chess
 http://chessboardjs.com/
 https://stockfishchess.org/
+
+https://github.com/qurihara/Threejs-Tetris-3DModeler   Игра тетрис
